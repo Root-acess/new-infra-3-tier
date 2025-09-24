@@ -1,10 +1,4 @@
-Perfect 👍 You want a **deeply descriptive `README.md`** for your **AWS Infrastructure with Terraform** project. I’ll write a professional, detailed version in Markdown format that you can directly use in your repo.
 
-Here’s the file:
-
----
-
-```markdown
 # ☁️ AWS Infrastructure with Terraform
 
 This project demonstrates how to **provision, manage, and maintain AWS infrastructure** using **Terraform**.  
@@ -124,9 +118,3 @@ Founder of **Successor** | Cloud & DevOps Enthusiast
 
 ---
 
-```
-
----
-
-⚡ Do you want me to also **add example Terraform code snippets** (like `ec2` or `s3` module) inside the README so it looks even more technical for recruiters and GitHub viewers?
-```
